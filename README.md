@@ -7,3 +7,4 @@
 * [ရှေ့ဆုံးကုဒ်](https://github.com/xxai-art/web)
 * [ဆိုက်တစ်ခုလုံးအတွက် ဘာသာစကားအစုံအလင်](https://github.com/xxai-art/web/tree/main/i18n)
 * [လော့ဂ်အင်မော်ဂျူးများအတွက် ဘာသာစကား packs](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Website Multilingual Documentation](https://github.com/xxai-doc)
